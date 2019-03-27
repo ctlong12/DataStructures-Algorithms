@@ -42,11 +42,13 @@ The purpose of this assignment is to implement new methods for a binary search t
 
 
 The purpose of this program is to simulate the rotations of a AVL tree.
+
 </br>
 
 ### The Selection Problem Using Binary Heaps
 
 Similar to Homework one, this program consists of two different ways to solve the famous selection problem. Unlike Homework One, we will be solving this using a priority queue and recording the time it took.
+
 </br>
 
 ### The Complexity of Sorting Algorithms
