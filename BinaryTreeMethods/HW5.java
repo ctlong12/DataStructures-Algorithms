@@ -1,6 +1,5 @@
 /**
  * Chandler Long
- * Data Structures and Algorithms HW7
  * The purpose of this assignment is to implement new methods for a binary search tree class.
  * The first method counts the number of leaf nodes in the tree. The second calculates the height of
  * the tree, and the third method calculates the depth of a particular node.
