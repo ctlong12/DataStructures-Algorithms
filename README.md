@@ -1,6 +1,8 @@
 # DataStructures-Algorithms
 Course homework and problem sets from CSCI 230 Data Structures and Algorithms
 
+
+
 ### The Selection Problem
 
 The purpose of this program is to implement two different algorithms to solve the famous selection problem. Selection1 simply sorts the elements in decreasing order and returns the kth value. Selection2 divides the array in half, sorts the first half, then swaps out elements larger than k before returning the value for k.
