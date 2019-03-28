@@ -12,22 +12,21 @@ The purpose of this program is to implement two different algorithms to solve th
 
 ### Binary Recursive
 
-The purpose of this code is to recursively find, and then display the binary representation of a number.
+The purpose of this code is to recursively find and display the binary representation of a number.
 
 </br>
 
 ### Doubly Linked Lists
 
- Data Structures and Algorithms
- The purpose of this homework assignment is to implement and test different methods
- that can be used to navigate a double linked list. Methods such as append, insert, isEmpty,
- currPos are amongst the many methods that will be implemented and tested.
+ The purpose of this assignment is to implement and test different method. These methods
+ can be used to navigate a doubly linked list. Methods such as append, insert, isEmpty,
+ current position are just a few of many methods that will be implemented and tested.
 
 </br>
 
 ### Sorting Doubly Linked Lists
 
-The following program will take a double linked list and sort its contents. After sorting the contents of the double linked list a remove methods is implemented that removes any duplicate values amongst the double linked list.
+The following program will take a doubly linked list and sort its contents. After sorting the contents of the double linked list a remove methods is implemented that removes any duplicate values in the double linked list.
 
 
 </br>
@@ -40,17 +39,16 @@ The purpose of this assignment is to implement new methods for a binary search t
 
 ### AVL Tree Rotations
 
-
-The purpose of this program is to simulate the rotations of a AVL tree.
+The purpose of this program is to write the methods to perform rotations on a AVL tree.
 
 </br>
 
 ### The Selection Problem Using Binary Heaps
 
-Similar to Homework one, this program consists of two different ways to solve the famous selection problem. Unlike Homework One, we will be solving this using a priority queue and recording the time it took.
+Similar to the first assignment, this program consists of two ways to solve the famous selection problem. Unlike Homework One, we will be solving this using a priority queue and recording the time it took.
 
 </br>
 
 ### The Complexity of Sorting Algorithms
 
-The purpose of this program is to run different sorting algorithms on arrays of different sizes. We are able to time each one of these algorithms and determine their overall speed.
+The purpose of this program is to run different sorting algorithms on arrays of all different sizes. We are able to time each one of these algorithms and determine their overall speed. We draw conclusions about their complexity based on a their graph.
