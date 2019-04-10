@@ -10,7 +10,7 @@ The purpose of this program is to implement two different algorithms to solve th
 
 </br>
 
-### Binary Recursive
+### Binary Recursion
 
 The purpose of this code is to recursively find and display the binary representation of a number.
 
