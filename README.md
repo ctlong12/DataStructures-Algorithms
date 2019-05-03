@@ -2,6 +2,11 @@
 Course homework and problem sets from CSCI 230 Data Structures and Algorithms
 
 </br>
+
+### Min-Max Heap
+
+A min-max heap is a complete binary tree data structure which combines the usefulness of both a min-heap and a max-heap, that is, it provides constant time retrieval and logarithmic time removal of both the minimum and maximum elements in it. This makes the min-max heap a very useful data structure to implement a double-ended priority queue.
+
 </br>
 
 ### The Selection Problem
@@ -52,8 +57,3 @@ Similar to the first assignment, this program consists of two ways to solve the 
 ### The Complexity of Sorting Algorithms
 
 The purpose of this program is to run different sorting algorithms on arrays of all different sizes. We are able to time each one of these algorithms and determine their overall speed. We draw conclusions about their complexity based on a their graph.
-
-
-### Min-Max Heap
-
-A min-max heap is a complete binary tree data structure which combines the usefulness of both a min-heap and a max-heap, that is, it provides constant time retrieval and logarithmic time removal of both the minimum and maximum elements in it. This makes the min-max heap a very useful data structure to implement a double-ended priority queue.
